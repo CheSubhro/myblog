@@ -26,17 +26,15 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blog-website.git
+   git clone https://github.com/CheSubhro/myblog.git
 
 ## Navigate to the project directory:
- cd blog-website
+ cd myblog
 
 # Install backend dependencies
-cd backend
 npm install
 
 # Install frontend dependencies
-cd ../frontend
 npm install
 
 ## Run the project:
